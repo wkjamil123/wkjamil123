@@ -26,7 +26,9 @@ Professional experience as a data analyst supporting federal performance evaluat
 - Developed analytical frameworks to evaluate performance measures and support decision-making  
 - Performed data cleaning, transformation, and validation on complex datasets  
 - Produced reports and data-driven insights to inform policy and strategic planning  
-- Collaborated with stakeholders across agencies to align data, metrics, and evaluation approaches  
+- Collaborated with stakeholders across agencies to align data, metrics, and evaluation approaches
+- Framed ambiguous problems into structured analytical approaches, including defining metrics and success criteria
+- Iteratively refined models and analyses based on evaluation results and evolving problem requirements
 
 ---
 
