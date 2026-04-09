@@ -1,8 +1,8 @@
 # Waleed Jamil
 
-Applied Data Science graduate student at Syracuse University with a strong foundation in machine learning, natural language processing, deep learning, and large-scale data systems.
+Recent Applied Data Science Master's Program Graduate from Syracuse University with a strong foundation in machine learning, natural language processing, deep learning, and large-scale data systems.
 
-Experience building end-to-end data and AI solutions, including predictive models, distributed data pipelines, and NLP systems, with a focus on real-world applications and scalable architectures.
+Experience building end-to-end data solutions, including predictive models, distributed data pipelines, and NLP systems, with a focus on real-world applications, scalable architectures, and data-driven decision-making.
 
 ---
 
@@ -12,12 +12,33 @@ Experience building end-to-end data and AI solutions, including predictive model
 - Natural Language Processing (NLP) & LLM Applications  
 - Deep Learning (CNNs, RNNs)  
 - Data Engineering & Distributed Systems  
-- End-to-End Data Pipeline Design  
-- Model Evaluation, Optimization, and Feature Engineering  
+- End-to-End Data Science Lifecycle  
+- Model Evaluation, Optimization, and Feature Engineering
+- Large-Scale Data Visualization  
 
 ---
 
-## Projects
+## Applied Experience & Concepts
+
+- End-to-end data science lifecycle: problem formulation, data collection, preprocessing, modeling, evaluation, and communication of results  
+- Translating data into actionable insights to support data-driven decision-making across stakeholders  
+- Feature engineering and data preprocessing for structured and unstructured datasets  
+- Design and implementation of ETL pipelines and data integration workflows  
+- Distributed data processing and scalable data handling using Spark-based systems  
+- Query-driven data modeling and schema design for analytical workloads  
+- Model evaluation, validation, and performance optimization using cross-validation and tuning techniques  
+- Model interpretability and explainability (feature importance, SHAP)  
+- Interpretation and communication of model results and performance metrics  
+- Natural language processing pipelines, including text cleaning, vectorization, and sentiment analysis  
+- Statistical analysis, hypothesis testing, and experiment design  
+- Data validation, cleaning, and ensuring data quality and reliability in analytical workflows  
+- API-based workflows and deployment of data-driven applications  
+- Data visualization and storytelling for both technical and non-technical audiences  
+- Reproducible analysis and modular code development  
+
+---
+
+## Selected Projects Showcased in GitHub Repositories
 
 ### Opioid Overdose Forecasting & Risk Analysis
 Machine learning project integrating multi-year public health, demographic, and economic datasets to predict overdose death rates and identify intervention gaps.  
@@ -42,12 +63,14 @@ Combines text processing, sentiment scoring, and structured data integration.
 **Programming & Data**
 - Python, R, SQL, Bash  
 - Pandas, NumPy  
-- Git (version control)
+- Git (version control and collaborative workflows), API integration  
 
 **Machine Learning**
 - scikit-learn, XGBoost  
+- Supervised and unsupervised learning  
 - Model evaluation, cross-validation, hyperparameter tuning  
 - Feature importance and explainability (SHAP)  
+- Model selection and bias-variance tradeoff  
 
 **Deep Learning & AI**
 - TensorFlow, PyTorch, Keras  
@@ -64,8 +87,9 @@ Combines text processing, sentiment scoring, and structured data integration.
 - Apache Spark, PySpark  
 - Hadoop ecosystem (HDFS, Hive, YARN)  
 - Kafka  
-- ETL pipeline development  
-- Data modeling and distributed data architecture  
+- ETL / ELT pipelines  
+- Distributed data processing  
+- Data modeling and data architecture design  
 
 **Databases**
 - PostgreSQL / MySQL  
@@ -73,8 +97,12 @@ Combines text processing, sentiment scoring, and structured data integration.
 - Neo4j, Elasticsearch  
 
 **Visualization & BI**
-- Matplotlib, Seaborn, Plotly  
+- Matplotlib, Seaborn, Plotly, ggplot (R)  
 - Power BI, Tableau  
+- Exploratory Data Analysis (EDA)  
+- Interactive dashboards and reporting  
+- Visualization of model performance and analytical results  
+- Data storytelling and communication of insights  
 
 **MLOps & Deployment**
 - Docker  
