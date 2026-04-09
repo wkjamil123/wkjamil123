@@ -2,7 +2,7 @@
 
 Recent Applied Data Science Masters Program graduate from Syracuse University with a strong foundation in machine learning, natural language processing, deep learning, and large-scale data systems.
 
-Professional experience as a data analyst supporting federal performance evaluation and policy analysis, complemented by hands-on data science and machine learning projects involving predictive modeling, distributed data pipelines, and NLP systems. Focused on data science and machine learning techniques to real-world problems and scalable data environments.
+Professional experience as a data analyst supporting federal performance evaluation and policy analysis, complemented by hands-on data science and machine learning projects involving predictive modeling, distributed data pipelines, and NLP systems. Focused on data science and machine learning techniques to real-world problems and scalable data environments. 
 
 ---
 
