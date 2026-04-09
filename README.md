@@ -140,7 +140,7 @@ Developed an NLP-based analysis of scouting reports to evaluate sentiment and it
 ## Technical Skills
 **Programming & Data**
 - Python, R, SQL, Bash  
-- Pandas, NumPy  
+- Pandas, NumPy, dplyr, ggplot2 
 - Git (version control), API integration  
 
 **Machine Learning**
