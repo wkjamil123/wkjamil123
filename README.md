@@ -20,6 +20,7 @@ Professional experience as a data analyst supporting federal performance evaluat
 ## Professional Experience
 
 ### Data Analyst — Office of National Drug Control Policy (ONDCP), Executive Office of the President of the United States (Contractor)
+*June 2022 - Present*
 - Conducted performance evaluation and analysis across federal agencies contributing to national drug control initiatives  
 - Worked with multi-source federal datasets to assess program effectiveness and identify gaps in reporting and outcomes  
 - Developed analytical frameworks to evaluate performance measures and support decision-making  
